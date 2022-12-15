@@ -46,7 +46,7 @@ def onButtonClicked3():
     print(" horizontal film aperture IS " + str(HCA))
     VCA = cmds.getAttr ("camera_1Shape" + str(x) + ".verticalFilmAperture")
     print(" horizontal film aperture IS " + str(VCA))
-nn
+
     
 def launchchangeRRUI():
    
